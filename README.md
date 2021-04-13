@@ -2,6 +2,7 @@
 ## Command line in luffy 
 ### install package
   ```
+  $ npm init -y
   $ npm i parcel-bundler --save-dev
   ```
 ### run server
