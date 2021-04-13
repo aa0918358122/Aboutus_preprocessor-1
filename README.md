@@ -1,7 +1,7 @@
 # Aboutus_preprocessor
 ## Command line in luffy
   ```
-  $ ./node_modules/.bin/parcel ./parcel/index.pug --port 12345
+  $ ./node_modules/.bin/parcel ./parcel/index.pug --port 17269
   ```
   
 ## See our aboutus
